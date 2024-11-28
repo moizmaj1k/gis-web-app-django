@@ -1,6 +1,6 @@
 # Django GIS Project
 
-<img src="dashboard/static/images/forREADME/dashboard.png" alt="Dashboard" title="Optional Tooltip" width="500" style="border: 1px solid #ccc; border-radius: 10px;">
+<img src="dashboard/static/images/forREADME/dashboard.png" alt="Dashboard" title="Optional Tooltip" width="800" style="border: 2px solid black; border-radius: 10px;">
 
 
 <b>This is a Django-based project designed to work with geo-spatial data using GeoDjango, Javascipt mapping API's and a PostgreSQL/PostGIS database. It supports GIS functionalities such as visualizing Road Network, Bridges, Culverts, Rivers, Settlements data through mapping and implementing spatial queries to filter and access that data on the frontend of the application.</b>
